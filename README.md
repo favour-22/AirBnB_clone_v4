@@ -158,5 +158,5 @@ No known bugs at this time.
 Fvaour Ayoade - [Github](https://github.com/favour-22) 
 
 
-## License
+## License.
 Public Domain. No copy write protection. 
