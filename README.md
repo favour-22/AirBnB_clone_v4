@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-	Ivy-Chelsea - [Github](https://github.com/Ivy-Chelsea)
+Ivy Chelsea - [Github](https://github.com/Ivy-Chelsea)
 Fvaour Ayoade - [Github](https://github.com/favour-22) 
 
 
