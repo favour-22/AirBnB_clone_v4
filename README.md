@@ -155,7 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Ivy Chelsea - [Github](https://github.com/Ivy-Chelsea) 
-  Fvaour Ayoade - [Github](https://github.com/favour-22) 
+  
+  Favour Ayoade - [Github](https://github.com/favour-22) 
 
 
 ## License.
